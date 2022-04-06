@@ -1,0 +1,36 @@
+.banner {
+    background: url("img/wp.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    border: 10px solid #ccc;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.team img {
+    width: 250px;
+    border: 10px solid #ccc;
+}
+
+.contact {
+    background: url("img/bg_contact.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
